@@ -1,0 +1,8 @@
+{
+  "short_name": "The CO2 Fight",
+  "name": "The CO2 Fight",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
