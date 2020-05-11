@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/the-co2-fight/temp-website.svg?branch=master)](https://travis-ci.org/the-co2-fight/temp-website)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
