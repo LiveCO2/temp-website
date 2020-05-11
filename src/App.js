@@ -10,7 +10,7 @@ function App() {
     <div className="body">
         <h1 className="mainTitle">THE CO2 FIGHT</h1>
         <div className="intro">
-            <p><b>The CO2 Fight</b> nace en 2019 con el objectivo de valorar los árboles por su absorción de carbono.</p>
+            <p><b>The CO2 Fight</b> nace en 2019 con el objetivo de valorar los árboles por su absorción de carbono.</p>
             <p>Para ello queremos <b>cuantificar, certificar y poner a disposición del mercado</b> las toneladas de CO2 absorbidas por los bosques.</p>
             <div className="spacedText">
                 <p>Actualmente nuestro proyecto <b>esta en fase de desarrollo</b>, por lo que agradecemos tus ideas y sugerencias.</p>
