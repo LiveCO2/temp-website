@@ -3,7 +3,7 @@ import './App.css';
 
 import instagramIcon from './instagram.svg';
 import facebookIcon from './facebook.svg';
-import emailIcon from './gmail.svg';
+import emailIcon from './gmail.png';
 
 function App() {
   return (
