@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e785e5b396016998b0fdd007123d854d",
+    "revision": "b8dccc08988dbc277a14b23e3831ff63",
     "url": "/index.html"
   },
   {
-    "revision": "de5f9e2c5316fbca4bf1",
+    "revision": "aac0eddc36c9e068f3fd",
     "url": "/static/css/main.f5d68a81.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.d16f33e7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "de5f9e2c5316fbca4bf1",
-    "url": "/static/js/main.89c0e67c.chunk.js"
+    "revision": "aac0eddc36c9e068f3fd",
+    "url": "/static/js/main.da4ac6be.chunk.js"
   },
   {
     "revision": "4f0ddaf613c61a2706a5",
@@ -30,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b988e1977e6756a41baac52f3f7fa010",
     "url": "/static/media/fores-transp-more.b988e197.png"
-  },
-  {
-    "revision": "befd54e51287d6b5d33de07fecbbdc3a",
-    "url": "/static/media/gmail.befd54e5.svg"
   },
   {
     "revision": "b1c58ee19d1e2c38b29ae86f3174f2e4",

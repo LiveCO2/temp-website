@@ -1,26 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.f5d68a81.chunk.css",
-    "main.js": "/static/js/main.89c0e67c.chunk.js",
-    "main.js.map": "/static/js/main.89c0e67c.chunk.js.map",
+    "main.js": "/static/js/main.da4ac6be.chunk.js",
+    "main.js.map": "/static/js/main.da4ac6be.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a87915d4.js",
     "runtime-main.js.map": "/static/js/runtime-main.a87915d4.js.map",
     "static/js/2.d16f33e7.chunk.js": "/static/js/2.d16f33e7.chunk.js",
     "static/js/2.d16f33e7.chunk.js.map": "/static/js/2.d16f33e7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b085da16e022bf8d0a305dddd24d6cb3.js": "/precache-manifest.b085da16e022bf8d0a305dddd24d6cb3.js",
+    "precache-manifest.1c30b69ebb8269c19212e26f981cbfde.js": "/precache-manifest.1c30b69ebb8269c19212e26f981cbfde.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.f5d68a81.chunk.css.map": "/static/css/main.f5d68a81.chunk.css.map",
     "static/js/2.d16f33e7.chunk.js.LICENSE.txt": "/static/js/2.d16f33e7.chunk.js.LICENSE.txt",
     "static/media/facebook.svg": "/static/media/facebook.c0cd1382.svg",
     "static/media/App.css": "/static/media/fores-transp-more.b988e197.png",
-    "static/media/gmail.svg": "/static/media/gmail.befd54e5.svg",
     "static/media/instagram.svg": "/static/media/instagram.b1c58ee1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a87915d4.js",
     "static/js/2.d16f33e7.chunk.js",
     "static/css/main.f5d68a81.chunk.css",
-    "static/js/main.89c0e67c.chunk.js"
+    "static/js/main.da4ac6be.chunk.js"
   ]
 }
