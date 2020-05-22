@@ -1,7 +1,7 @@
 {
   "name": "temp-website",
   "version": "0.1.0",
-  "homepage": "https://theco2fight.com",
+  "homepage": "https://liveco2.com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
