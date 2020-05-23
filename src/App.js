@@ -18,13 +18,13 @@ function App() {
             </div>
             <p className="subTitle">Contacta con nosotros</p>
             <div className="contact">
-              <a href="https://instagram.com/liveco2?igshid=1bgtikum9cr66" target="_blank" rel="noopener noreferrer">
+              <a href="https://instagram.com/live_co2" target="_blank" rel="noopener noreferrer">
                 <img className="social-link" src={instagramIcon} alt="instagramIcon" />
               </a>
                 <a href="https://www.facebook.com/liveco2/" target="_blank" rel="noopener noreferrer">
                     <img className="social-link" src={facebookIcon} alt="facebookIcon" />
                 </a>
-                <a href="mailto:admin@liveco2.com"><img className="social-link" src={emailIcon} alt="envelopeIcon" /></a>
+                <a href="mailto:team@liveco2.com"><img className="social-link" src={emailIcon} alt="envelopeIcon" /></a>
             </div>
         </div>
     </div>
