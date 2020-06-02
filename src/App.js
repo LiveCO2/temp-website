@@ -13,7 +13,7 @@ function App() {
             <p><b>Live CO2</b> nace en 2019 con el objetivo de valorar los árboles por su absorción de carbono.</p>
             <p>Para ello queremos <b>cuantificar, certificar y poner a disposición del mercado</b> las toneladas de CO2 absorbidas por los bosques.</p>
             <div className="spacedText">
-                <p>Actualmente nuestro proyecto <b>esta en fase de desarrollo</b>, por lo que agradecemos tus ideas y sugerencias.</p>
+                <p>Actualmente nuestro proyecto <b>está en fase de desarrollo</b>, por lo que agradecemos tus ideas y sugerencias.</p>
                 <p>Si quieres saber mas sobre nosotros, quieres colaborar aportando tus ideas o estas interesado en certificar el CO2 absobido por tus árboles, estaremos encantados de hablar contigo.</p>
             </div>
             <p className="subTitle">Contacta con nosotros</p>
